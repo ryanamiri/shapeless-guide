@@ -1,3 +1,0 @@
-object ScalaWorldLecture extends App {
-
-}
